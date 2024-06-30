@@ -1,0 +1,3 @@
+pip install streamlit
+pip install -U textblob
+pip install streamlit_extras
