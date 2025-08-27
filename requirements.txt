@@ -1,4 +1,4 @@
 streamlit
 textblob
 streamlit-extras
-nltk
+
