@@ -4,7 +4,7 @@
 A simple and interactive web application for performing **sentiment analysis** on user-provided text using **TextBlob**.  
 Built with **Streamlit**, it provides real-time feedback on whether the entered text expresses **positive** or **negative** sentiment, along with polarity and subjectivity scores.
 
-🌐 **Live Demo**: [Click here to try the app](https://sentiment-analysis-webapp-e3vwruzgnu63kse9y3dsu2.streamlit.app/)
+🌐 **Live Demo**: [Click here to RUN the app](https://sentiment-analysis-webapp-e3vwruzgnu63kse9y3dsu2.streamlit.app/)
 
 ---
 
